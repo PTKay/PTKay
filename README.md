@@ -3,4 +3,4 @@
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ptkickass&count_private=true&show_icons=true" />
 
-<div style="text-align:center text-justify:inter-word">I'm currently taking the Computer Science and Engineering class at ISEL, but I do make my own stuff from time to time. Feel free to look around!</div>
+I'm currently taking the Computer Science and Engineering class at ISEL, but I do make my own stuff from time to time. Feel free to look around!

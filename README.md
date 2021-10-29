@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm João Moura (PTKickass)! </h3>
+<h3 align="center">👋 Hi there! </h3>
 
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ptkickass&count_private=true&show_icons=true&theme=dark" />
